@@ -84,3 +84,4 @@
 
 Open to backend and full-stack roles in Lahore, Islamabad, hybrid or remote.
 Message me on [LinkedIn](https://www.linkedin.com/in/codewithmuhammadhaseeb/) or see more on my [portfolio](https://muhammadhaseeb-portfolio-six.vercel.app/).
+✉️ mhasseb3112@gmail.com
