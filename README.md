@@ -40,6 +40,27 @@
       <a href="https://mh-saas-billing.duckdns.org/"><b>Live demo (one-click login)</b></a> · <a href="https://github.com/MuhammadHaseeb3112/Multi-Tenant-SaaS-Billing"><b>Source</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://mh-markethub.duckdns.org/"><img src="https://raw.githubusercontent.com/MuhammadHaseeb3112/Multi-Vendor-Ecommerce-Platform/main/docs/screenshots/home.jpg" alt="MarketHub"/></a>
+      <h4>MarketHub: multi-vendor marketplace</h4>
+      Customer, vendor and admin dashboards: stores, variants, coupons, checkout, order tracking and payouts.
+      <ul>
+        <li>Private sandbox demo per visitor (vendors get their own store)</li>
+        <li>Home page SQL queries cut from 232 to 31 · Lighthouse 93–100</li>
+        <li>52 tests on PostgreSQL · CI/CD with auto-rollback</li>
+      </ul>
+      <a href="https://mh-markethub.duckdns.org/"><b>Live demo (one-click login)</b></a> · <a href="https://github.com/MuhammadHaseeb3112/Multi-Vendor-Ecommerce-Platform"><b>Source</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>More projects</h4>
+      <ul>
+        <li><a href="https://github.com/MuhammadHaseeb3112/Energy-Consumption-Forecasting-System"><b>Energy Consumption Forecasting</b></a>: final year project; LSTM, Random Forest and XGBoost compared side by side</li>
+        <li><a href="https://github.com/MuhammadHaseeb3112/Advanced-Django-Blogging-Platform"><b>Advanced Django Blog</b></a>: DRF, JWT and OAuth 2.0, Celery, real-time notifications</li>
+        <li><a href="https://github.com/MuhammadHaseeb3112/myportfolio-nextjs"><b>Portfolio</b></a>: Next.js + TypeScript front end on a Django REST API</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ### 🛠️ Tech stack
