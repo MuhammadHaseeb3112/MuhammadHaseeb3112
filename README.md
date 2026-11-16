@@ -53,10 +53,22 @@
       <a href="https://mh-markethub.duckdns.org/"><b>Live demo (one-click login)</b></a> · <a href="https://github.com/MuhammadHaseeb3112/Multi-Vendor-Ecommerce-Platform"><b>Source</b></a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://mh-blog.duckdns.org/"><img src="https://raw.githubusercontent.com/MuhammadHaseeb3112/Advanced-Blog-System/main/docs/screenshots/blog-list.jpg" alt="Advanced Blog System"/></a>
+      <h4>Advanced Blog System: multi-author blogging</h4>
+      Authors write, schedule and publish; readers like, bookmark and comment, and authors see it live.
+      <ul>
+        <li>Django Channels: live like, comment and notification updates</li>
+        <li>Celery + Beat: scheduled publishing, trending ranking, emails · JWT REST API</li>
+        <li>74 tests on PostgreSQL · CI/CD with auto-rollback</li>
+      </ul>
+      <a href="https://mh-blog.duckdns.org/accounts/login/"><b>Live demo (one-click login)</b></a> · <a href="https://github.com/MuhammadHaseeb3112/Advanced-Blog-System"><b>Source</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h4>More projects</h4>
       <ul>
         <li><a href="https://github.com/MuhammadHaseeb3112/Energy-Consumption-Forecasting-System"><b>Energy Consumption Forecasting</b></a>: final year project; LSTM, Random Forest and XGBoost compared side by side</li>
-        <li><a href="https://github.com/MuhammadHaseeb3112/Advanced-Django-Blogging-Platform"><b>Advanced Django Blog</b></a>: DRF, JWT and OAuth 2.0, Celery, real-time notifications</li>
         <li><a href="https://github.com/MuhammadHaseeb3112/myportfolio-nextjs"><b>Portfolio</b></a>: Next.js + TypeScript front end on a Django REST API</li>
       </ul>
     </td>
